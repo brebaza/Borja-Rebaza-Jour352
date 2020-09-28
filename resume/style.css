@@ -4,6 +4,11 @@ body {
   color:#444;
   font-weight:400;
 }
+h6{
+  font-size:1.5em;
+  text-transform: capitalize;
+  color:#33485e;
+}
 h1 {
   font-size:3em;
   color:#33485e;
@@ -12,6 +17,24 @@ h1 {
 }
 h2 {
   font-size:1.5em;
-  color:#33485e;
+  background-color:#33485e;
+  color: white;
+  font-weight:400;
   text-transform: uppercase;
+}
+h3 {
+  font-size:1.5em;
+  font-weight:600;
+}
+h4 {
+  font-size:1.5em;
+  font-weight:400;
+}
+h5 {
+  font-size:1em
+  font-weight:400;
+  font-style: italic;
+}
+ul {
+  font-size:1em;
 }
