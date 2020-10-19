@@ -1,0 +1,14 @@
+#content {
+  margin: 0 auto;
+  width: 900px;
+}
+#headline {
+  font-size: 500px;
+  font: "Times New Roman"
+  color: green;
+}
+#byline {
+  font-family: Helvetica, sans-serif;
+  font-size: 14px;
+  font-style: italic;
+}
