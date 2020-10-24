@@ -6,14 +6,14 @@
   font-family: Georgia, sans-serif;
   font-size: 13px;
 }
-#h1 {
-  font-size: 500px;
+#title {
+  font-size: 1000px;
   font-family: Helvetica, sans-serif;
-  color: green;
+  font-weight: bold;
 }
 #byline {
   font-family: Helvetica, sans-serif;
-  font-size: 14px;
+  font-size: 100px;
   font-style: italic;
 }
 #blockquote {
