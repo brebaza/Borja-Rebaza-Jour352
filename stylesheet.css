@@ -8,16 +8,18 @@
 }
 #h1 {
   font-weight: 600;
+  color: Red;
   text-align: center;
   margin-top: 20px;
   margin-bottom: 0px;
   margin-left: 0px;
   margin-right: 0px;
 }
-#byline {
+#h3 {
   font-family: Helvetica, sans-serif;
   font-size: 100px;
   font-style: italic;
+  color: red;
 }
 #blockquote {
   font-size: 24px;
@@ -29,6 +31,10 @@
   margin-left: 50px;
   padding-left: 15px;
   border-left: 4px solid #ccc;
+}
+#image {
+  width: 50px;
+  height: 100px;
 }
 .sectionheader {
   font-size:1.5em;
