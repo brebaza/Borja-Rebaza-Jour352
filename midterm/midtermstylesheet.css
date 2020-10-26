@@ -1,0 +1,44 @@
+#h1 {
+  font-family: sans-serif;
+  font-size: 100px;
+  color: maroon;
+}
+#h2 {
+  font-family: sans-serif;
+  font-size: 75px;
+}
+/*Some of my divs were working and some were not*/
+#h3 {
+  font-family: sans-serif;
+  font-size: 75px;
+}
+.text {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 12px;
+}
+#caption {
+  font-family: sans-serif;
+  font-size: 12px;
+}
+#story {
+  width: 1000px;
+  text-align: center;
+}
+#byline {
+  font-family: sans-serif;
+  font-size:18px;
+}
+#banner {
+  width: 1000px;
+  text-align: center;
+}
+#h5 {
+  font-size: 75px;
+  font-family: sans-serif;
+}
+#blockquote {
+  color: navy;
+  font-family: sans-serif;
+  font-size: 25px;
+  background-color: grey;
+}
