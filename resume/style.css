@@ -9,6 +9,7 @@ body {
   max-width: 1200px;
   margin: 0 auto;
   padding-bottom: 50px;
+  text-align: center;
 }
 #title {
   font-weight: 600;
@@ -41,10 +42,9 @@ h6{
   text-transform: uppercase;
   margin-bottom: 10px;
   margin-top: 20px;
-  margin-left: 0px;
-  margin-right: 0px;
   width: 70%;
   min-width: 300px;
+  text-align: center;
 }
 .jobtitle {
   font-size:1.5em;

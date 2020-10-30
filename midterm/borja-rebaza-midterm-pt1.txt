@@ -70,3 +70,19 @@ color: #000000;
 
 9.  What tag would we use to include an image on an HTML page? Just give me the name of the tag, you don't have to write out all the code.
 img src
+
+10.  Why do we use media queries?
+So our css code can work in multiple formats (desktop, mobile, etc.)
+
+
+
+11. What is the main difference between a serif and a sans-serif font?
+Serif has a more decorative design compared to sans-serif
+
+
+
+12. Which of the following is a hexadecimal code?
+#FFCC33
+123,543,242
+101010101 (this one)
+-213
