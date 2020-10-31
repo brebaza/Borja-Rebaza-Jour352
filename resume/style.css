@@ -93,3 +93,13 @@ h6{
   margin-left: 0px;
   margin-right: 0px;
 }
+.topnav {
+  background-color: #33485e;
+  overflow: hidden;
+}
+.topnav a {
+  color: white;
+  font-size: 50px;
+  text-align: center;
+  padding: 14px 16px;
+}
